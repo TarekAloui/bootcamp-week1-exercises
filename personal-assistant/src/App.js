@@ -1,9 +1,11 @@
 import React from 'react'
+import { ParentContainer } from './styles'
+import Todo from './Components/TodoComponent'
 
 const App = () => (
-  <div>
-    Beep boop hi there, I&apos;m your personal assistant hehe
-  </div>
+  <ParentContainer>
+    <Todo />
+  </ParentContainer>
 )
 
 export default App

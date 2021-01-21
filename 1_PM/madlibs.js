@@ -11,8 +11,13 @@ const verb1 = ______
 Change thses values to generate a different story
 */
 
+
+const name = "Tarek"
+const age = 12
+const university = "Harvard University"
+
 const story = `
-**replace this with your story using a template string**
+Hi, my name is ${name} and I am ${age} years old. I am currently a student at ${university}.
 `
 
 console.log(story)
