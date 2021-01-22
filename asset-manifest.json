@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/personal-assisstant-hsa/static/js/main.ba800a66.chunk.js",
+    "main.js.map": "/personal-assisstant-hsa/static/js/main.ba800a66.chunk.js.map",
+    "runtime-main.js": "/personal-assisstant-hsa/static/js/runtime-main.48e4c095.js",
+    "runtime-main.js.map": "/personal-assisstant-hsa/static/js/runtime-main.48e4c095.js.map",
+    "static/css/2.073c06f3.chunk.css": "/personal-assisstant-hsa/static/css/2.073c06f3.chunk.css",
+    "static/js/2.2068176e.chunk.js": "/personal-assisstant-hsa/static/js/2.2068176e.chunk.js",
+    "static/js/2.2068176e.chunk.js.map": "/personal-assisstant-hsa/static/js/2.2068176e.chunk.js.map",
+    "index.html": "/personal-assisstant-hsa/index.html",
+    "precache-manifest.9b00184f089d499bd83b4b9afdbd256a.js": "/personal-assisstant-hsa/precache-manifest.9b00184f089d499bd83b4b9afdbd256a.js",
+    "service-worker.js": "/personal-assisstant-hsa/service-worker.js",
+    "static/css/2.073c06f3.chunk.css.map": "/personal-assisstant-hsa/static/css/2.073c06f3.chunk.css.map",
+    "static/js/2.2068176e.chunk.js.LICENSE": "/personal-assisstant-hsa/static/js/2.2068176e.chunk.js.LICENSE",
+    "static/media/index.css": "/personal-assisstant-hsa/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48e4c095.js",
+    "static/css/2.073c06f3.chunk.css",
+    "static/js/2.2068176e.chunk.js",
+    "static/js/main.ba800a66.chunk.js"
+  ]
+}
