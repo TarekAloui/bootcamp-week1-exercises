@@ -1,10 +1,10 @@
 import React from 'react'
 import { ParentContainer } from './styles'
-import Todo from '../../Components/TodoComponent'
+import WeatherComponent from '../../Components/WeatherComponent'
 
 const TodoPage = () => (
   <ParentContainer>
-    <Todo />
+    <WeatherComponent />
   </ParentContainer>
 )
 
